@@ -1,9 +1,9 @@
 # ResBookingSystem
-This is a restaurant booking system that is invented as my group's project in subject CSC126. 
+This is a CSC126 Group Project.
 Language used is C++
 
 Group members: 
-Amalia Amira binti Rahim
-Muhammad Izwan bin Mohd Sharil
-Muhammad Aiman Nazhif bin Norkamal
-Siti Hajar binti Alias
+1. Amalia Amira binti Rahim
+2. Muhammad Aiman Nazhif bin Norkamal
+3. Muhammad Izwan bin Mohd Sharil
+4. Siti Hajar binti Alias
