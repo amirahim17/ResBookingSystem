@@ -3,7 +3,7 @@ This is a restaurant booking system that is invented as my group's project in su
 Language used is C++
 
 Group members: 
-Amalia Amira binti Rahim
+Amalia Amira binti Rahim\n
 Muhammad Izwan bin Mohd Sharil
 Muhammad Aiman Nazhif bin Norkamal
 Siti Hajar binti Alias
